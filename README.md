@@ -1,3 +1,4 @@
 # Learning-GIT-
 My first GIT repository
-Author - Koushik .Ch
+<br>
+Author - Koushik .Ch (IIT PATNA)
